@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Broadcast_Storm", "Broadcast_Storm.csproj", "{871B5A90-103A-46A5-BBB9-07C02B9851D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug-Mac|Any CPU = Debug-Mac|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{871B5A90-103A-46A5-BBB9-07C02B9851D1}.Debug-Mac|Any CPU.ActiveCfg = Debug-Mac|Any CPU
+		{871B5A90-103A-46A5-BBB9-07C02B9851D1}.Debug-Mac|Any CPU.Build.0 = Debug-Mac|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.DotNetNamingPolicy = $1
+		$0.TextStylePolicy = $2
+		$2.inheritsSet = null
+		$2.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $3
+		$3.PropertyBraceStyle = NextLine
+		$3.PropertyGetBraceStyle = NextLine
+		$3.PropertySetBraceStyle = NextLine
+		$3.EventBraceStyle = NextLine
+		$3.EventAddBraceStyle = NextLine
+		$3.EventRemoveBraceStyle = NextLine
+		$3.StatementBraceStyle = NextLine
+		$3.ElseNewLinePlacement = NewLine
+		$3.CatchNewLinePlacement = NewLine
+		$3.FinallyNewLinePlacement = NewLine
+		$3.AfterDelegateDeclarationParameterComma = True
+		$3.scope = text/x-csharp
+		$3.IndentSwitchSection = False
+		$3.NewLinesForBracesInProperties = False
+		$3.NewLinesForBracesInAccessors = False
+		$3.NewLinesForBracesInAnonymousMethods = False
+		$3.NewLinesForBracesInControlBlocks = False
+		$3.NewLinesForBracesInAnonymousTypes = False
+		$3.NewLinesForBracesInObjectCollectionArrayInitializers = False
+		$3.NewLinesForBracesInLambdaExpressionBody = False
+		$3.NewLineForElse = False
+		$3.NewLineForCatch = False
+		$3.NewLineForFinally = False
+		$3.NewLineForMembersInObjectInit = False
+		$3.NewLineForMembersInAnonymousTypes = False
+		$3.NewLineForClausesInQuery = False
+		$3.SpacingAfterMethodDeclarationName = True
+		$3.SpaceAfterMethodCallName = True
+		$3.SpaceBeforeOpenSquareBracket = True
+		StartupItem = MyGameMac.csproj
+	EndGlobalSection
+EndGlobal
